@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#afb42b</color>
+    <color name="colorPrimaryDark">#7c8500</color>
+    <color name="colorAccent">#ff9100</color>
+    <color name="colorSecondary">#b2ff59</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="ratingBarColor">#fafafa</color>
+    <color name="tabSelectedTextColor">#f44336</color>
+    <color name="tabUnselectedTextColor">#f5f5f5</color>
+    <color name="viewPagerBackground">#ffffff</color>
+</resources>

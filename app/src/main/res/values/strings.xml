@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name" translatable="false">Atlanta, GA</string>
+    <string name="tab_label1">ATTRACTIONS</string>
+    <string name="tab_label2">MUSEUM</string>
+    <string name="tab_label3">HOTELS</string>
+    <string name="tab_label4">RESTAURANTS</string>
+    <string name="place_name">Title</string>
+    <string name="place_desc">Sub-Title</string>
+    <string name="place_website">website</string>
+    <string name="place_address">address</string>
+    <string name="place_phone">phone</string>
+    <string name="shopping">SHOPPING</string>
+    <string name="about">ABOUT</string>
+    <string name="marta">MARTA</string>
+
+    <!-- Attractions -->
+    <!-- Georgia Aquarium -->
+    <string name="place_1_title">Georgia Aquarium</string>
+    <string name="place_1_desc">The Georgia Aquarium is an entertaining, intriguing and educational experience for guests of all ages. While promoting a fun and enjoyable learning experience, the Aquarium instills in its guests a new appreciation for the world\'s aquatic biodiversity.</string>
+    <string name="place_1_website">http://www.georgiaaquarium.org</string>
+    <string name="place_1_address">Centennial Olympic Park \nAtlanta, Georgia 30303</string>
+    <string name="place_1_phone">(404)&#8211;581&#8211;4000</string>
+
+    <!-- Atlanta History Center -->
+    <string name="place_2_title">Atlanta History Center</string>
+    <string name="place_2_desc">The Atlanta History Center is a unique campus that houses the Atlanta History Museum, Centennial Olympic Games Museum and more.</string>
+    <string name="place_2_website">http://www.atlantahistorycenter.com</string>
+    <string name="place_2_address">130 West Paces Ferry Road Nw \nAtlanta, Georgia 30305</string>
+    <string name="place_2_phone">(404)&#8211;814&#8211;4000</string>
+
+    <!-- Zoo Atlanta -->
+    <string name="place_3_title">Zoo Atlanta</string>
+    <string name="place_3_desc">There is always something fun to do during your visit to the Zoo! Animal keeper talks, training demonstrations, fun shows, animal encounters and more! We strive to inspire the citizens of Atlanta and Georgia and all visitors to the Zoo to value wildlife on Earth and to help safeguard existing species through conservation.</string>
+    <string name="place_3_website">http://www.zooatlanta.org/</string>
+    <string name="place_3_address">800 Cherokee Ave SE Ste A \nAtlanta, GA 30315</string>
+    <string name="place_3_phone">(404)&#8211;624&#8211;5916</string>
+
+    <!-- Six Flags Over Georgia -->
+    <string name="place_4_title">Six Flags Over Georgia</string>
+    <string name="place_4_desc">Nothing provides more lasting memories than a great day at the park. Especially when shared with friends and family. That’s why, in addition to the most thrilling rides on the planet, you’ll find a wide variety of top-shelf entertainment right here at the park.</string>
+    <string name="place_4_website">http://www.sixflags.com/overgeorgia</string>
+    <string name="place_4_address">275 Riverside Parkway \nAustell, GA 30168</string>
+    <string name="place_4_phone">(770)&#8211;739&#8211;3400</string>
+
+    <!-- CNN -->
+    <string name="place_5_title">Inside CNN Tour</string>
+    <string name="place_5_desc">The Inside CNN Tour is your backstage pass to the most trusted name in news.</string>
+    <string name="place_5_website">http://www.cnn.com/tour/</string>
+    <string name="place_5_address">190 Marietta St NW \nAtlanta, GA 30303</string>
+    <string name="place_5_phone">(404)&#8211;827&#8211;2300</string>
+
+    <!-- Stone Mountain -->
+    <string name="place_6_title">Stone Mountain</string>
+    <string name="place_6_desc">Stone Mountain is a quartz monzonite dome monadnock and the site of Stone Mountain Park near Stone Mountain, Georgia. At its summit, the elevation is 1,686 feet MSL and 825 feet above the surrounding area. Stone Mountain is well known for not only its geology, but also the enormous rock relief on its north face, the largest bas-relief in the world. The carving depicts three Confederate figures, Jefferson Davis, Robert E. Lee and Stonewall Jackson, and has been the subject of widespread controversy. </string>
+    <string name="place_6_website">https://www.stonemountainpark.com/</string>
+    <string name="place_6_address">1000 Robert E. Lee Blvd \nStone Mountain, GA 30083 </string>
+    <string name="place_6_phone">800&#8211;401&#8211;2407</string>
+
+    <!-- Lego Land -->
+    <string name="place_7_title">LEGOLAND Discovery</string>
+    <string name="place_7_desc">LEGOLAND Discovery Center is made up of a series of interactive features to immerse kids into a world where their imagination can run wild with creative inspiration at every turn. Featuring a whole host of exciting attractions from the Kingdom Quest ride to an amazing recreation of the local area\’s most iconic buildings, the Center not only provides fun for LEGO fans young and old, but fantastic educational benefits too.</string>
+    <string name="place_7_website">http://www.legolanddiscoverycenter.com/atlanta/</string>
+    <string name="place_7_address">3500 Peachtree Rd G-1 \nAtlanta, GA 30326</string>
+    <string name="place_7_phone">(404)&#8211;848&#8211;9252</string>
+
+    <!-- Museum -->
+    <!-- Coca Cola -->
+    <string name="place_8_title">World of Coca-Cola</string>
+    <string name="place_8_desc">The World of Coca-Cola is the only place where you can explore the complete story past, present, and future of the world\'s best-known brand! Taste over 60 different products from around the globe Experience our thrilling 4-D Theater (3D movie with moving seats) Be amazed by a fully-functioning bottling line and take home a FREE 8-ounce bottle of Coca-Cola.</string>
+    <string name="place_8_website">http://www.woccatlanta.com</string>
+    <string name="place_8_address">121 Baker st Nw \nAtlanta, Georgia 30313</string>
+    <string name="place_8_phone">(404)&#8211;688&#8211;3297</string>
+
+    <!--College Football Hall -->
+    <string name="place_9_title">College Football Hall \nof Fame</string>
+    <string name="place_9_desc">The College Football Hall of Fame is a hall of fame and museum devoted to college football. In August 2014, the College Football Hall of Fame and Chick-fil-A Fan Experience opened in downtown Atlanta, Georgia. Previously located in South Bend, Indiana, the new Hall of Fame is a 94,256 square feet (8,756.7 m2) attraction located in the heart of Atlanta’s sports, entertainment and tourism district, and is adjacent to the Georgia World Congress Center and Centennial Olympic Park.</string>
+    <string name="place_9_website">N/A</string>
+    <string name="place_9_address">250 Marietta St., N.W \nAtlanta, GA 30313</string>
+    <string name="place_9_phone">(404)&#8211;880&#8211;4800</string>
+
+    <!-- Martin Luther King Jr. -->
+    <string name="place_10_title">MLK Jr. National \nHistoric Site</string>
+    <string name="place_10_desc">The MLK, Jr., National Historic Site includes a number of facilities that are operated in partnership with the National Park Service.</string>
+    <string name="place_10_website">http://www.nps.gov/malu/index.htm</string>
+    <string name="place_10_address">450 Auburn Ave NE \nAtlanta, GA 30312</string>
+    <string name="place_10_phone">(404)&#8211;331&#8211;5190</string>
+
+    <!-- Atlanta Cyclorama -->
+    <string name="place_11_title">Atlanta Cyclorama &amp; \nCivil War Museum</string>
+    <string name="place_11_desc">Take a stirring journey through time in Atlanta\'s Cyclorama. Sit at the center of a sweeping panorama of the Battle of Atlanta.</string>
+    <string name="place_11_website">http://www.ocaatlanta.com</string>
+    <string name="place_11_address">675 Ponce De Leon Ave Ne \nAtlanta, Georgia 30308</string>
+    <string name="place_11_phone">(404)&#8211;658&#8211;7625</string>
+
+    <!-- FernBank -->
+    <string name="place_12_title">Fernbank Museum </string>
+    <string name="place_12_desc">Experience a world of adventure for all ages at Fernbank! See science come alive with the world\’s largest dinosaurs, cultural treasures, rare artifacts and Atlanta\’s biggest IMAX® screen.</string>
+    <string name="place_12_website">http://www.fernbankmuseum.org/</string>
+    <string name="place_12_address">767 Clifton Rd \nAtlanta, GA 30307</string>
+    <string name="place_12_phone">(404)&#8211;929&#8211;6300</string>
+
+    <!-- Braves Museum -->
+    <string name="place_13_title">Braves Museum</string>
+    <string name="place_13_desc">The Ivan Allen Jr. Braves Museum &amp; Hall of Fame (BMHF) is an education and entertainment venue.</string>
+    <string name="place_13_website">http://www.atlantabraves.com</string>
+    <string name="place_13_address">755 Hank Aaron Dr Sw \nAtlanta, Georgia 30315</string>
+    <string name="place_13_phone">(404)&#8211;614&#8211;2310</string>
+
+    <!-- Hotels -->
+    <!-- Intercontinental Buckhead -->
+    <string name="place_14_title">Intercontinental </string>
+    <string name="place_14_desc">A 4-minute walk from Buckhead metro station, this upscale hotel is 1.2 miles from the Atlanta History Center and 7 miles from downtown Atlanta. Our guests rave that the elegant InterContinental Buckhead, home to fine dining and plush amenities, is perfectly situated amid the shops and restaurants of this upscale neighborhood. </string>
+    <string name="place_14_website">http://www.ichotelsgroup.com</string>
+    <string name="place_14_address">3315 Peachtree rd Ne \nAtlanta, Georgia 30326</string>
+    <string name="place_14_phone">(404)&#8211;946&#8211;9000</string>
+
+    <!-- Four Seasons -->
+    <string name="place_15_title">Four Seasons Hotel </string>
+    <string name="place_15_desc">A downtown location is among the main draws at the Four Seasons Hotel Atlanta, which pampers you with an extensive fitness center, indoor lap pool and ultra-private spa. In a 50-story neoclassical tower, the Four Seasons has 244 luxurious rooms and suites done up in subtle shades of yellow, gold and cinnamon. </string>
+    <string name="place_15_website">http://www.fourseasons.com/atlanta/</string>
+    <string name="place_15_address">75 14th St NE \nAtlanta, Georgia 30309</string>
+    <string name="place_15_phone">(404)&#8211;881&#8211;9898</string>
+
+    <!-- The Ritz-Carlton -->
+    <string name="place_16_title">The Ritz-Carlton </string>
+    <string name="place_16_desc">Luxurious accommodations and swanky amenities, such as an indoor pool and feather beds, in an urbane setting graced by Southern hospitality are just some of the charms and comforts offered at the non-smoking Ritz-Carlton Buckhead. The 22-floor, non-smoking Ritz-Carlton\'s 510 rooms all offer 37-inch flat-panel HDTVs, iPod docking stations, DVD players, coffeemakers, alarm clocks, hairdryers, irons, free daily newspaper, mahogany hardwood floors, feather beds with goose down pillows and 400-thread count cotton linens. </string>
+    <string name="place_16_website">http://www.ritzcarlton.com/en/Properties/Buckhead/Default.htm</string>
+    <string name="place_16_address">3434 Peachtree rd Ne \nAtlanta, Georgia 30326</string>
+    <string name="place_16_phone">(404)&#8211;237&#8211;2700</string>
+
+    <!-- Mandarin Oriental -->
+    <string name="place_17_title">Mandarin Oriental</string>
+    <string name="place_17_desc">Mandarin Oriental, Atlanta is located 320 metres from the shops and restaurants of Lenox Square and 10 kilometres from the shops of Atlantic Station. A fitness centre is available for guest\'s use.Elegant rooms boast air conditioning and cable, flat-screen TV. Hartsfield-Jackson Atlanta International Airport is 23 minutes' drive. </string>
+    <string name="place_17_website">https://www.mandarinoriental.com/atlanta/buckhead/luxury-hotel</string>
+    <string name="place_17_address">3376 Peachtree Rd \nAtlanta, Georgia 30326</string>
+    <string name="place_17_phone">(404)&#8211;995&#8211;7500</string>
+
+    <!-- Sheraton Hotel -->
+    <string name="place_18_title">Sheraton Atlanta \nAirport Hotel</string>
+    <string name="place_18_desc">The 5-star Sheraton Atlanta Airport Hotel offers comfort and convenience whether you\'re on business or holiday in Atlanta (GA). The hotel has everything you need for a comfortable stay. Take advantage of the hotel\'s 24-hour front desk, facilities for disabled guests, luggage storage, car park, room service. </string>
+    <string name="place_18_website">http://www.sheraton.com</string>
+    <string name="place_18_address">1900 Sullivan Rd \nAtlanta, Georgia 30337</string>
+    <string name="place_18_phone">(770)&#8211;997&#8211;1100</string>
+
+    <!-- Westin -->
+    <string name="place_19_title">The Westin Atlanta \nAirport</string>
+    <string name="place_19_desc">The Westin Atlanta Airport is conveniently located in the popular Hartsfield-Jackson Atlanta International Airport area. The property features a wide range of facilities to make your stay a pleasant experience. 24-hour front desk, facilities for disabled guests, express check-in/check-out, luggage storage, Wi-Fi in public areas are on the list of things guests can enjoy.  </string>
+    <string name="place_19_website">http://deals.westin.com/Westin-Atlanta-Airport-Hotel-1024/special-offers</string>
+    <string name="place_19_address">4736 Best Road \nAtlanta, Georgia 30337</string>
+    <string name="place_19_phone">(404)&#8211;762&#8211;7676</string>
+
+
+    <!-- The Ellis -->
+    <string name="place_20_title">The Ellis Hotel</string>
+    <string name="place_20_desc">Hip and sleek, yet faithful to its roots, the Ellis Hotel bridges Atlanta’s past and present like no other hotel in the city. Our intimate size and boutique style make us the definitive choice of travelers looking for an alternative to cookie cutter chain hotels. People have noticed… We are ranked the #2 Best Hotel in Downtown Atlanta in 2015 by U.S. News and World Report’s Best Hotels in the U.S.  </string>
+    <string name="place_20_website">http://www.ellishotel.com/</string>
+    <string name="place_20_address">176 Peachtree Street NW \nAtlanta, Georgia 30303</string>
+    <string name="place_20_phone">(404)&#8211;523&#8211;5155</string>
+
+    <!-- Sheraton Suites -->
+    <string name="place_21_title">Sheraton Suites</string>
+    <string name="place_21_desc">Sheraton Suites GalleriaAtlanta is perfectly located for both business and leisure guests in Atlanta (GA). The hotel offers a wide range of amenities and perks to ensure you have a great time. 24-hour front desk, facilities for disabled guests, express check-in/check-out, Wi-Fi in public areas, car park are on the list of things guests can enjoy. Sheraton Suites GalleriaAtlanta combines warm hospitality with a lovely ambiance to make your stay in Atlanta (GA) unforgettable.  </string>
+    <string name="place_21_website">http://deals.sheraton.com/Sheraton-Suites-Galleria-Atlanta-Hotel-111/special-offers</string>
+    <string name="place_21_address">2844 Cobb Parkway SE \nAtlanta, Georgia 30339</string>
+    <string name="place_21_phone">(770)&#8211;955&#8211;3900</string>
+
+    <!-- Restaurants -->
+    <!-- Cafe Sunflower -->
+    <string name="place_22_title">Cafe Sunflower</string>
+    <string name="place_22_desc">Cafe Sunflower appeals to people of all diets, and they return again and again for our delectable food, beautiful presentation, cozy atmosphere and friendly service. We feature a wide variety of vegetarian dishes that incorporate elements from the Caribbean, Asia, the American Southwest, and the Mediterranean. Come join us, and taste for yourself!  </string>
+    <string name="place_22_website">http://www.cafesunflower.com/</string>
+    <string name="place_22_address">2140 Peachtree rd Nw \nAtlanta, Georgia 30309</string>
+    <string name="place_22_phone">(404)&#8211;352&#8211;8859</string>
+
+    <!-- McCormick & Schmick's Restaurant -->
+    <string name="place_23_title">McCormick &amp; Schmick\'s \nRestaurant</string>
+    <string name="place_23_desc">Each McCormick &amp; Schmick\'s Seafood Restaurant\’s menu is printed twice daily, featuring the signature “Fresh List” highlighting an impressive number of fresh seafood varieties, in addition to aged steaks, poultry, entrée salads and pasta. McCormick &amp; Schmick\'s commitment to local freshness is apparent in the seasonally inspired dishes and regionally inspired preparations offered.  </string>
+    <string name="place_23_website">http://mccormickandschmicks.com/atlanta</string>
+    <string name="place_23_address">190 Marietta St NW \nAtlanta, Georgia 30303</string>
+    <string name="place_23_phone">(404)&#8211;521&#8211;1236</string>
+
+    <!-- McKendrick's Steakhouse -->
+    <string name="place_24_title">McKendrick\'s \nSteakhouse</string>
+    <string name="place_24_desc">McKendrick’s menu is extensive and enticing, featuring the finest USDA prime beef along with South African lobster tails and the freshest seafood delivered daily. The finely orchestrated meals are complimented by an extensive wine list that has received Wine Spectator\’s Award of Excellence every year since 2003.</string>
+    <string name="place_24_website">http://www.mckendricks.com/</string>
+    <string name="place_24_address">4505 Ashford Dunwoody Rd NE \nAtlanta, Georgia 30346</string>
+    <string name="place_24_phone">(770)&#8211;512&#8211;8888</string>
+
+    <!-- nuevo-laredo-cantina -->
+    <string name="place_25_title">Nuevo Laredo Cantina</string>
+    <string name="place_25_desc">Your search for the best Mexican food in Atlanta is over. Voted “Best of Atlanta” by Atlanta Magazine since 1992. Nuevo Laredo Cantina features authentic food prepared by Mexican cooks.  </string>
+    <string name="place_25_website">http://www.nuevolaredocantina.com/</string>
+    <string name="place_25_address">996 Huff rd Nw \nAtlanta, Georgia 30318</string>
+    <string name="place_25_phone">(404)&#8211;352&#8211;9009</string>
+
+    <!-- Nan Thai Fine Dining -->
+    <string name="place_26_title">Nan Thai Fine Dining</string>
+    <string name="place_26_desc">Sa-Wat-dee-kup and welcome to Nan\'s Thai Fine Dining. Since 1997, my wife, daughter, son and myself have worked hard each day to bring the true Thai experience to Atlanta. It was always our dream to be able to serve such people with the fresh ingredients we sought-out, with the bright flavors we spent time perfecting, with the colors and intoxicating smells we built from one generation to the next. Please let us give to you what our family has worked so hard to say. This is Thailand, Thailand at it\'s best.  </string>
+    <string name="place_26_website">http://www.nanfinedining.com</string>
+    <string name="place_26_address">1350 Spring st Nw Ste 1 \nAtlanta, Georgia 30309</string>
+    <string name="place_26_phone">(404)&#8211;870&#8211;9933</string>
+
+    <!-- Maggiano's Little Italy -->
+    <string name="place_27_title">Maggiano\'s Little Italy</string>
+    <string name="place_27_desc">Whether celebrating a special occasion or gathering the family for an informal dinner, Maggiano’s strives to make every Guest feel comfortable enough to laugh out loud, reminisce, and be indulged. With that in mind, we know that to make our Guests feel special, our teammates have to feel special.  </string>
+    <string name="place_27_website">http://www.maggianos.com</string>
+    <string name="place_27_address">3368 Peachtree rd Ne \nAtlanta, Georgia 30326</string>
+    <string name="place_27_phone">(404)&#8211;816&#8211;9650</string>
+
+    <!-- Ecco -->
+    <string name="place_28_title">Ecco</string>
+    <string name="place_28_desc">Ecco\’s ambiance is punctuated by the energy of our stylish dining room and patio, a spacious bar serving hand-crafted cocktails, and impeccable service. Smell the house-made mozzarella, the myriad of meats curing in the wine room, and our beautifully-seasoned sauces being prepared in our exhibition kitchen.  </string>
+    <string name="place_28_website">http://www.ecco-atlanta.com/</string>
+    <string name="place_28_address">40 7th St Ne \nAtlanta, Georgia 30308</string>
+    <string name="place_28_phone">(404)&#8211;347&#8211;9555</string>
+
+    <!-- Rumi's Kitchen -->
+    <string name="place_29_title">Rumi\'s Kitchen</string>
+    <string name="place_29_desc">Welcome to Rumi\’s Kitchen, the premiere Atlanta location for Persian cuisine. We are named after one of the most famous and well-read poets in the world, Jelaluddin Rumi. Rumi was a 13th century Persian poet whose visions, words, and life teach us how to reach inner peace, happiness, and love. We invite you to Rumi\’s Kitchen where fresh, healthy food, attentive Persian hospitality, and an atmosphere filled with love await you.  </string>
+    <string name="place_29_website">http://www.rumiskitchen.com/</string>
+    <string name="place_29_address">6152 Roswell rd Ne \nAtlanta, Georgia 30328</string>
+    <string name="place_29_phone">(404)&#8211;477&#8211;2100</string>
+</resources>

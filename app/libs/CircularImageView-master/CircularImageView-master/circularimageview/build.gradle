@@ -1,0 +1,65 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.jfrog.bintray'
+apply plugin: 'maven-publish'
+
+android {
+    compileSdkVersion androidCompileSdkVersion
+    defaultConfig {
+        minSdkVersion androidMinSdkVersion
+        targetSdkVersion androidTargetSdkVersion
+        versionCode androidVersionCode
+        versionName androidVersionName
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation appCompat
+}
+
+//region PUBLISH TO JCENTER & MAVEN CENTRAL
+task sourceJar(type: Jar) {
+    from android.sourceSets.main.java.srcDirs
+    classifier "sources"
+}
+
+// Create the publication with the pom configuration:
+publishing {
+    publications {
+        MyPublication(MavenPublication) {
+            groupId 'com.mikhaellopez'
+            artifactId 'circularimageview'
+            version androidVersionName
+            artifact(sourceJar)
+            artifact("$buildDir/outputs/aar/circularimageview-release.aar")
+        }
+    }
+}
+
+// Bintray config
+Properties properties = new Properties()
+properties.load(project.rootProject.file('local.properties').newDataInputStream())
+
+bintray {
+    user = properties.getProperty("bintray.user")
+    key = properties.getProperty("bintray.apikey")
+    publications = ['MyPublication']
+    pkg {
+        repo = "maven"
+        name = "com.mikhaellopez:circularimageview"
+        desc = 'This is an Android project allowing to realize a circular ImageView in the simplest way possible.'
+        licenses = ['Apache-2.0']
+        vcsUrl = 'https://github.com/lopspower/CircularImageView.git'
+        version {
+            name = androidVersionName
+            vcsTag = androidVersionName
+            released = new Date()
+        }
+    }
+}
+//endregion
