@@ -4,17 +4,17 @@ public class Place {
 
     // Place details
     private String mPlaceTitle;
-    private String mPlaceDetail;
+    private String mPlaceDesc;
     private String mWebsite;
     private String mPhone;
     private String mAddress;
     private int mPhotoId;
 
-    public Place(String mPlaceTitle, String mPlaceDetail,
+    public Place(String mPlaceTitle, String mPlaceDesc,
                  String mWebsite, String mPhone,
                  String mAddress, int mPhotoId){
         this.mPlaceTitle = mPlaceTitle;
-        this.mPlaceDetail = mPlaceDetail;
+        this.mPlaceDesc = mPlaceDesc;
         this.mWebsite = mWebsite;
         this.mPhone = mPhone;
         this.mAddress = mAddress;
@@ -25,8 +25,8 @@ public class Place {
         return mPlaceTitle;
     }
 
-    public String getPlaceDetail() {
-        return mPlaceDetail;
+    public String getPlaceDesc() {
+        return mPlaceDesc;
     }
 
     public String getPlaceWebsite() {

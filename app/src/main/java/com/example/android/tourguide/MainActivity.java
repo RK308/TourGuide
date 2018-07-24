@@ -46,9 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
-    //    setupTabIcons();
 
-     //   private void setupTabIcons(){
             View headerView = ((LayoutInflater) getSystemService(Context.LAYOUT_INFLATER_SERVICE)).inflate(R.layout.custom_tab, null, false);
 
             LinearLayout linearLayout1 = (LinearLayout) headerView.findViewById(R.id.tab_icon1);
@@ -60,30 +58,6 @@ public class MainActivity extends AppCompatActivity {
             tabLayout.getTabAt(1).setCustomView(linearLayout2);
             tabLayout.getTabAt(2).setCustomView(linearLayout3);
             tabLayout.getTabAt(3).setCustomView(linearLayout4);
-
-   //              tabLayout.getTabAt(0).getIcon().setColorFilter(Color.GREEN, PorterDuff.Mode.SRC_IN);
-   //              tabLayout.getTabAt(1).getIcon().setColorFilter(Color.parseColor("#e8eaf6"),PorterDuff.Mode.SRC_IN);
-
-  //          tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
-
-  //              @Override
-    //            public void onTabSelected(TabLayout.Tab tab) {
-             //       super.onTabSelected(tab);
-              //      tabIconColor = ContextCompat.getColor(context, R.color.tabSelectedIconColor);
-   //                 tab.getIcon().setColorFilter(Color.GREEN, PorterDuff.Mode.SRC_IN);
-  //              }
-
-   //         @Override
-     //       public void onTabUnselected(TabLayout.Tab tab) {
-  //              tab.getIcon().setColorFilter(Color.parseColor("#e8eaf6"), PorterDuff.Mode.SRC_IN);
-    //        }
-
-  //          @Override
-    //        public void onTabReselected(TabLayout.Tab tab) {
-
-      //      }
-        //    });
-  //      }
     }
 
 

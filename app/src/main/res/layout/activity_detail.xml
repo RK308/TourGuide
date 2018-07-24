@@ -54,6 +54,7 @@
                         style="?android:attr/ratingBarStyleSmall"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:gravity="end"
                         android:layout_marginTop="@dimen/ratingBar_top_margin"
                         android:layout_marginEnd="@dimen/ratingBar_end_margin"
                         android:rating="3.5"
@@ -109,7 +110,8 @@
                 android:autoLink="all"
                 android:background="?attr/selectableItemBackground"
                 android:drawableStart="@drawable/website_icon"
-                android:text="@string/place_website" />
+                android:text="@string/place_website"
+                android:textColor="@color/colorAccent"/>
 
             <TextView
                 android:id="@+id/place_address"

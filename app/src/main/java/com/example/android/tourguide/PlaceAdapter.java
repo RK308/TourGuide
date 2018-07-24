@@ -45,12 +45,12 @@ public class PlaceAdapter extends RecyclerView.Adapter<PlaceAdapter.PlaceHolder>
                 Intent placeDetailsIntent = new Intent(v.getContext(),DetailsActivity.class);
 
                 // Add place details BUNDLE to be sent to DetailsActivity
-                placeDetailsIntent.putExtra("PLACE TITLE",currentPlace.getPlaceTitle());
-                placeDetailsIntent.putExtra("PLACE DETAIL",currentPlace.getPlaceDetail());
-                placeDetailsIntent.putExtra("PLACE WEBSITE",currentPlace.getPlaceWebsite());
-                placeDetailsIntent.putExtra("PLACE PHONE",currentPlace.getPlacePhone());
-                placeDetailsIntent.putExtra("PLACE ADDRESS",currentPlace.getPlaceAddress());
-                placeDetailsIntent.putExtra("PLACE IMAGE",currentPlace.getPlacePhotoId());
+                placeDetailsIntent.putExtra("PLACE_NAME",currentPlace.getPlaceTitle());
+                placeDetailsIntent.putExtra("PLACE_DESC",currentPlace.getPlaceDesc());
+                placeDetailsIntent.putExtra("PLACE_WEBSITE",currentPlace.getPlaceWebsite());
+                placeDetailsIntent.putExtra("PLACE_PHONE",currentPlace.getPlacePhone());
+                placeDetailsIntent.putExtra("PLACE_ADDRESS",currentPlace.getPlaceAddress());
+                placeDetailsIntent.putExtra("PLACE_IMAGE",currentPlace.getPlacePhotoId());
                 v.getContext().startActivity(placeDetailsIntent);
             }
         });
