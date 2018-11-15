@@ -22,7 +22,7 @@ PROJECT SPECIFICATIONS
 # App Screenshots 
 
 
-<img src=Screenshot_1542298589.png width=300>  <img src=Screenshot_1542298666.png width=300>
-<img src=Screenshot_1542298696.png width=300>  <img src=Screenshot_1542298713.png width=300>
-<img src=Screenshot_1542298816.png height=300> <img src=Screenshot_1542299447.png height=300>
-<img src=Screenshot_1542299486.png height=300> <img src=Screenshot_1542299495.png height=300>
+<img src=screenshots/Screenshot_1542298589.png width=300>  <img src=screenshots/Screenshot_1542298666.png width=300>
+<img src=screenshots/Screenshot_1542298696.png width=300>  <img src=screenshots/Screenshot_1542298713.png width=300>
+<img src=screenshots/Screenshot_1542298816.png height=300> <img src=screenshots/Screenshot_1542299447.png height=300>
+<img src=screenshots/Screenshot_1542299486.png height=300> <img src=screenshots/Screenshot_1542299495.png height=300>
