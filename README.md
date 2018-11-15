@@ -19,16 +19,11 @@ PROJECT SPECIFICATIONS
 8. All images are stored as drawables. All drawables are stored at multiple densities. 
 
 
-## 
+# App Screenshots 
 
 
-Screenshot_1542298589.png 
-Added screenshots. 
-3 minutes ago 
- 
-Screenshot_1542298666.png 
-Added screenshots. 
-3 minutes ago 
+<img=Screenshot_1542298589.png width=300>  <img=Screenshot_1542298666.png width=300>
+
  
 Screenshot_1542298696.png 
 Added screenshots. 
