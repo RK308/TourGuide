@@ -10,7 +10,7 @@
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorPrimary" >
+        android:background="@color/colorPrimary">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/collapsing_toolbar"
@@ -27,39 +27,40 @@
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="top"
                 android:background="?attr/colorPrimary"
+                android:gravity="top"
+                app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-                app:layout_collapseMode="pin">
+                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="horizontal">
+
                     <TextView
                         android:id="@+id/toolbar_title"
-                        android:layout_width="@dimen/textView_width"
-                        android:layout_height="wrap_content"
-                        android:padding="@dimen/textView_padding"
                         style="@android:style/TextAppearance.Holo.Widget.ActionBar.Title.Inverse"
+                        android:layout_width="@dimen/land_textView_width"
+                        android:layout_height="wrap_content"
+                        android:gravity="top"
+                        android:maxLines="2"
+                        android:padding="@dimen/textView_padding"
                         android:text="@string/place_name"
                         android:textColor="@color/textColorPrimary"
-                        android:textSize="@dimen/label_text_size"
-                        android:gravity="top"
-                        android:maxLines="2"/>
+                        android:textSize="@dimen/label_text_size" />
 
                     <RatingBar
                         android:id="@+id/rating_bar"
                         style="?android:attr/ratingBarStyleSmall"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:gravity="end"
-                        android:layout_marginTop="@dimen/ratingBar_top_margin"
                         android:layout_marginEnd="@dimen/ratingBar_end_margin"
+                        android:layout_marginTop="@dimen/ratingBar_top_margin"
+                        android:gravity="end"
+                        android:isIndicator="false"
                         android:rating="3.5"
-                        android:stepSize="0.5"
-                        android:isIndicator="false"/>
+                        android:stepSize="0.5" />
                 </LinearLayout>
             </android.support.v7.widget.Toolbar>
 

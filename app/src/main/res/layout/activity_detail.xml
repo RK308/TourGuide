@@ -40,14 +40,14 @@
                     <TextView
                         android:id="@+id/toolbar_title"
                         android:layout_width="@dimen/textView_width"
-                        android:layout_height="wrap_content"
+                        android:layout_height="@dimen/textView_height"
                         android:padding="@dimen/textView_padding"
                         style="@android:style/TextAppearance.Holo.Widget.ActionBar.Title.Inverse"
                         android:text="@string/place_name"
                         android:textColor="@color/textColorPrimary"
                         android:textSize="@dimen/label_text_size"
                         android:gravity="top"
-                        android:maxLines="2"/>
+                        android:maxLines="3"/>
 
                     <RatingBar
                         android:id="@+id/rating_bar"

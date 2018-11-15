@@ -72,7 +72,7 @@
     <string name="place_8_phone">(404)&#8211;688&#8211;3297</string>
 
     <!--College Football Hall -->
-    <string name="place_9_title">College Football Hall \nof Fame</string>
+    <string name="place_9_title">College Football \nHall of Fame</string>
     <string name="place_9_desc">The College Football Hall of Fame is a hall of fame and museum devoted to college football. In August 2014, the College Football Hall of Fame and Chick-fil-A Fan Experience opened in downtown Atlanta, Georgia. Previously located in South Bend, Indiana, the new Hall of Fame is a 94,256 square feet (8,756.7 m2) attraction located in the heart of Atlanta’s sports, entertainment and tourism district, and is adjacent to the Georgia World Congress Center and Centennial Olympic Park.</string>
     <string name="place_9_website">N/A</string>
     <string name="place_9_address">250 Marietta St., N.W \nAtlanta, GA 30313</string>
@@ -86,7 +86,7 @@
     <string name="place_10_phone">(404)&#8211;331&#8211;5190</string>
 
     <!-- Atlanta Cyclorama -->
-    <string name="place_11_title">Atlanta Cyclorama &amp; \nCivil War Museum</string>
+    <string name="place_11_title">Atlanta Cyclorama \nMuseum</string>
     <string name="place_11_desc">Take a stirring journey through time in Atlanta\'s Cyclorama. Sit at the center of a sweeping panorama of the Battle of Atlanta.</string>
     <string name="place_11_website">http://www.ocaatlanta.com</string>
     <string name="place_11_address">675 Ponce De Leon Ave Ne \nAtlanta, Georgia 30308</string>
